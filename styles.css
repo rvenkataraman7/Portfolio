@@ -11,10 +11,9 @@ html {
     float: left;
     width: 33.33%;
   }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: ""; 
-    display: table;
-    clear: both;
-  }
+
+.grid
+{
+  padding-left: 25px;
+  padding: 25px;
+}
